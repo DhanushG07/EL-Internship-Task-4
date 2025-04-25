@@ -1,5 +1,8 @@
 # EL-Internship-Task-4
 
+## Objective
+Design an interactive dashboard for business stakeholders
+
 ## Dataset
 **Used**: Financial Transactions Dataset  
 **Source**: [Kaggle](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
