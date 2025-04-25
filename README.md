@@ -8,7 +8,7 @@
 ## Tool Used
 - Datawrapper
 - [My Presentation](https://app.presentations.ai/view/60OpMU) for PPT
-- Microsoft Power Point (for PPT)
+- [Microsoft Power Point](https://1drv.ms/p/c/6f61b9adedcb71ea/EbGVCpjXJ3JPqs6CeKh58qQBQ2mhiurWj34lQrHaT8IBHQ?e=8r1EAY) (for PPT)
 - [Kaggle](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
 
 ## Deliverables
